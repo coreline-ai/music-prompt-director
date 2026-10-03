@@ -1,0 +1,4 @@
+interface:
+  display_name: "뮤직 프롬프트 디렉터"
+  short_description: "간단한 느낌을 곡 제작 계획과 전문 음악 생성 프롬프트로 설계"
+  default_prompt: "$music-prompt-director 비 오는 새벽의 차분한 연주곡을 계획하고 복사용 생성 프롬프트를 작성해줘."

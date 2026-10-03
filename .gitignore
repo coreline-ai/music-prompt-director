@@ -1,0 +1,28 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local configuration and generated files
+.env
+.env.*
+*.log
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+reports/
+private/
+data/
+
+# This repository contains instructions, not audio or model weights.
+*.mp3
+*.flac
+*.wav
+*.m4a
+*.ogg
+*.mp4
+*.zip
+*.safetensors
+*.ckpt
